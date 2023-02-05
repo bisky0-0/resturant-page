@@ -15,7 +15,7 @@ let contentContainer = document.createElement('div');
     nav.setAttribute('id', 'nav')
 
     let navH = document.createElement('h1');
-    nav.appendChild(navH).textContent = "Hong Kong Reasturant";
+    nav.appendChild(navH).textContent = "Conderiano Reasturant";
     let iconsContainer = document.createElement('div')
     nav.appendChild(iconsContainer).setAttribute('id', 'icons')
 
