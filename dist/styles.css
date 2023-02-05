@@ -299,7 +299,7 @@ p span{
     }
 
     #contacts-container{
-        padding: 10px;
+        padding: 20px;
         width: 95%;
         height: 70vh;
         flex-flow: column;
